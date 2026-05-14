@@ -1,2 +1,0 @@
-# ifood-calculator
-calculator delivery
